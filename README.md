@@ -17,7 +17,8 @@ The main goal is to practice logic, clean code, object-oriented programming, and
 | 01 | [Checkout Calculator](./01-checkout-calculator) | Primitive Types, camelCase, String Concatenation | ✅ Completed |
 | 02 | [Travel Booking System](./02-travel-booking) | Text Blocks, Operator Precedence, Printf Formatting | ✅ Completed |
 | 03 | [Inventory Control System](./03-inventory-control) | Explicit Casting, Reserved Words, Mathematical Logic | ✅ Completed |
-| 04 | Next Challenge | Coming Soon... | ⏳ In Progress |
+| 04 | [Global Freight System](./04-global-freight) | Unified Review (Primitives, Text Blocks, Explicit Casting) | ✅ Completed |
+| 05 | Next Challenge | Coming Soon... | ⏳ In Progress |
 
 ### 🛠️ Environment & Tools
 - **Language:** Java (JDK 17+)
@@ -39,7 +40,8 @@ O objetivo principal é praticar lógica, código limpo (Clean Code), programaç
 | 01 | [Checkout Calculator](./01-checkout-calculator) | Tipos Primitivos, camelCase, Concatenação de Strings | ✅ Concluído |
 | 02 | [Travel Booking System](./02-travel-booking) | Text Blocks, Precedência de Operadores, Formatação com Printf | ✅ Concluído |
 | 03 | [Inventory Control System](./03-inventory-control) | Casting Explícito, Palavras Reservadas, Lógica Matemática | ✅ Concluído |
-| 04 | Próximo Desafio | Em breve... | ⏳ Em Progresso |
+| 04 | [Global Freight System](./04-global-freight) | Revisão Unificada (Primitivos, Text Blocks, Casting Explícito) | ✅ Concluído |
+| 05 | Próximo Desafio | Em breve... | ⏳ Em Progresso |
 
 ### 🛠️ Ambiente & Ferramentas
 - **Linguagem:** Java (JDK 17+)
