@@ -10,7 +10,6 @@ public class AirCargoGateway {
         double extraFee = 0.00;
         String triageDecision;
 
-        // 1. Definição do limite de franquia usando Switch Case tradicional
         switch (ticketClass) {
             case "FIRST_CLASS":
                 allowedWeightLimit = 20.0;
