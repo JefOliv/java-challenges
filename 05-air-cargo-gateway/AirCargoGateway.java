@@ -20,7 +20,7 @@ public class AirCargoGateway {
                 break;
             case "ECONOMY":
                 allowedWeightLimit = 10.0;
-                break; // Adicionado o break que faltava!
+                break;
             default:
                 allowedWeightLimit = 10.0;
                 break;
