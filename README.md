@@ -18,7 +18,9 @@ The main goal is to practice logic, clean code, object-oriented programming, and
 | 02 | [Travel Booking System](./02-travel-booking) | Text Blocks, Operator Precedence, Printf Formatting | ✅ Completed |
 | 03 | [Inventory Control System](./03-inventory-control) | Explicit Casting, Reserved Words, Mathematical Logic | ✅ Completed |
 | 04 | [Global Freight System](./04-global-freight) | Unified Review (Primitives, Text Blocks, Explicit Casting) | ✅ Completed |
-| 05 | Next Challenge | Coming Soon... | ⏳ In Progress |
+| 05 | [Air Cargo Gateway](./05-air-cargo-gateway) | Basic Switch Case & Conditonal Blocks (Airport Theme) | ✅ Completed |
+| 05.1 | [Global Streaming Gateway](./05.1-global-streaming) | Optimized Switch Case & Clean Boolean Flow (Streaming Theme) | ✅ Completed |
+| 06 | Next Challenge | Coming Soon... | ⏳ In Progress |
 
 ### 🛠️ Environment & Tools
 - **Language:** Java (JDK 17+)
@@ -41,7 +43,9 @@ O objetivo principal é praticar lógica, código limpo (Clean Code), programaç
 | 02 | [Travel Booking System](./02-travel-booking) | Text Blocks, Precedência de Operadores, Formatação com Printf | ✅ Concluído |
 | 03 | [Inventory Control System](./03-inventory-control) | Casting Explícito, Palavras Reservadas, Lógica Matemática | ✅ Concluído |
 | 04 | [Global Freight System](./04-global-freight) | Revisão Unificada (Primitivos, Text Blocks, Casting Explícito) | ✅ Concluído |
-| 05 | Próximo Desafio | Em breve... | ⏳ Em Progresso |
+| 05 | [Air Cargo Gateway](./05-air-cargo-gateway) | Switch Case Básico & Blocos Condicionais (Tema Aeroporto) | ✅ Concluído |
+| 05.1 | [Global Streaming Gateway](./05.1-global-streaming) | Switch Case Otimizado & Fluxo Booleano Limpo (Tema Streaming) | ✅ Concluído |
+| 06 | Próximo Desafio | Em breve... | ⏳ Em Progresso |
 
 ### 🛠️ Ambiente & Ferramentas
 - **Linguagem:** Java (JDK 17+)
